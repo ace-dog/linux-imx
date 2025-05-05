@@ -44,6 +44,7 @@
 #include "imx6qdl-sr-som.dtsi"
 #include "imx6qdl-sr-som-brcm.dtsi"
 #include "imx6qdl-cubox-i.dtsi"
+#include "imx6qdl-cubox-i-vendor.dtsi"
 
 / {
 	model = "SolidRun Cubox-i Dual/Quad";
